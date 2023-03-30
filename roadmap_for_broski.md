@@ -6,7 +6,7 @@
 
 ## Basic CS
 
-### How internet work (https://cs.fyi/guide/how-does-internet-work)
+### [How internet work](https://cs.fyi/guide/how-does-internet-work)
 
 - [what is HTTP](https://www.cloudflare.com/en-gb/learning/ddos/glossary/hypertext-transfer-protocol-http)
 
